@@ -16,18 +16,18 @@
 
 
 
-''' 
+```
 some code here
-'''
+```
 
-''' bash
+``` bash
 cd my-directory
-'''
+```
 
-'''cs
+```cs
 int x = 100;
 string y = "hello";
 Console.WriteLine(y+x);
-'''
+```
 
 first ever repo
