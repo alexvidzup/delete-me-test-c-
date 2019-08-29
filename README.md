@@ -1,6 +1,6 @@
 # delete-me-test-c-
 
-# Main heading
+# Main heading is great because this file is version 1.1
 ## Sub headiing 
 ### layer 3 heading
 
@@ -17,7 +17,7 @@
 
 
 ```
-some code here
+some code here and extra bit
 ```
 
 ``` bash
